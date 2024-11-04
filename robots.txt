@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijajuubo.github.io/MPt/sitemap_index.txt
+Sitemap: https://ijajuubo.github.io/PRM/sitemap_index.txt
+Sitemap: https://ijajuubo.github.io/Thy/sitemap_index.txt
+Sitemap: https://ijajuubo.github.io/kHM/sitemap_index.txt
